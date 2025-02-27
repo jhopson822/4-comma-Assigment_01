@@ -88,7 +88,7 @@ Your Conclusion here: 50 words here
 <!-- CONTACT -->
 ## Contact
 
-Kennedy Patterson - kennedyp@tamu.edu
+Justin Hopson- jhopson1@tamu.edu
 
 Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
 
