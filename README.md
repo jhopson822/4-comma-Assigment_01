@@ -90,7 +90,7 @@ Your Conclusion here: 50 words here
 
 Justin Hopson- jhopson1@tamu.edu
 
-Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
+Personal Website: [https://jhopson1.myportfolio.com/](https://jhopson1.myportfolio.com/)
 
 
 
