@@ -26,7 +26,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     Using characters from my body of work, I made a 4 panel yonkoma that shows what AI can generate for black people hairstyles.
     <br />
-    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/jhopson822/4-comma-Assigment_01/blob/main/4_Comma__Duskfire_Chronicles_Shorts_CROWN-compressed.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Justin Hopson</a>
