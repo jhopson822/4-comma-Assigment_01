@@ -59,7 +59,7 @@ Having an interest in black culture I wanted to really focus if AI can really be
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3. My first attempt at finding type 4 hairstyles for black women*
+*Figure 3. My first attempt at finding type 4 hairstyles for black women(SmartHairAI)*
 
 
 For my process I began to look up different AI websites that would generate images and ones that specifically catered to hairstyles. The first website I used was called SmartHairAi. This website asked for a hair pattern, inspired by, persona, hair length and angle. I put in black 4c for a hair pattern, inspired by an African American,  persona as a woman , medium or long hair length and front face to show the full hair. Unfortunately, the hairstyles were not 4c and most of them weren't even 4 type hair. I did it multiple times and even one time I think I asked for too much and it gave me a result that seems like a white woman with red hair facing another way. For the next website it was called creator night cafe. This website lets me write whatever I can think of. Surprisingly after my last attempt i got a render with a model with 4c hair which i knew i was going in the right direction. I used two more websites that were similar to the last and not much had different results and was wondering if I would ever get good results. 
@@ -67,7 +67,7 @@ For my process I began to look up different AI websites that would generate imag
 
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 4.  My second attempt at finding type 4 hairstyles for black women*
+*Figure 4.  My second attempt at finding type 4 hairstyles for black women(Creator Night Cafe) *
 
 
 ## Result and Future Work
@@ -78,11 +78,11 @@ After many trials of finding the right kind of hair for African American women, 
 
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 5.  My third attempt at finding type 4 hairstyles for black women*
+*Figure 5.  My third attempt at finding type 4 hairstyles for black women(Vondy)*
 
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 6.  My final attempt at finding type 4 hairstyles for black women*
+*Figure 6.  My final attempt at finding type 4 hairstyles for black wome(ChatGPT)*
 
 
 
