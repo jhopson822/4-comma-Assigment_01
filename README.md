@@ -24,12 +24,12 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">4-Comma: DUSKFIRE CHRONICLES SHORTS: CROWN </h3>
 
   <p align="center">
-    Short two sentence project desctiption here!
+    Using characters from my body of work, I made a 4 panel yonkoma that shows what AI can generate for black people hairstyles.
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Kennedy Patterson</a>
+    <a href="https://website.com">Justin Hopson</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -41,7 +41,8 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 <!-- Abstract -->
 ## Abstract
-This project is a critique of attitudes that value art only as a method of making money and disregard the work and experience needed to create notable art. I highlight the ways that AI steals art through its training data and ignores ownership by recreating copyrighted characters through prompt engineering.
+My Yonkuma is based on my body of work, Duskfire Chronicles. In doing so, I wanted to show how my characters interact with each other while also showing how versatile black hair can be. Using AI generative photos to suggest what style the sister should have. 
+
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -50,10 +51,10 @@ This project is a critique of attitudes that value art only as a method of makin
 
 *Figure 2. Related works in this domain.*
 
-Your Introduction and Related Works here: 200 words here.
 
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4.
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3.
+
+Having an interest in black culture I wanted to really focus if AI can really be helpful for coming up with hairstyles for black women. I think it's important to ask these questions because when looking at AI generative images the first thing that usually pops up is someone not of color."Many Black artists are finding evidence of racial bias in artificial intelligence, both in the large data sets that teach machines how to generate images and in the underlying programs that run the algorithms”.(1) Why is that with so much vast knowledge AI claims to have it can't think of someone of color if not told to do so before hand.“Given that AI technologies typically just regurgitate the information that is already available on the internet, it makes sense that there is a gap in advice that caters to hairstyles that are popular in the Black community it's reflecting the lack of knowledge that is present in the real world”.(2) With this thought in mind, I wanted to use the main female character Nia from my body of work. While trying the best hairstyles more intune with 4c hair that an AI generative website can come up with.
+
 
 
 ## Methodology
@@ -61,27 +62,38 @@ Notable work by Kamp in 2019, highlights the beauty that could be found in natur
 
 *Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
 
-Your Methodology and Related Works here: 200 words here.
+
+For my process I began to look up different AI websites that would generate images and ones that specifically catered to hairstyles. The first website I used was called SmartHairAi. This website asked for a hair pattern, inspired by, persona, hair length and angle. I put in black 4c for a hair pattern, inspired by an African American,  persona as a woman , medium or long hair length and front face to show the full hair. Unfortunately, the hairstyles were not 4c and most of them weren't even 4 type hair. I did it multiple times and even one time I think I asked for too much and it gave me a result that seems like a white woman with red hair facing another way. For the next website it was called creator night cafe. This website lets me write whatever I can think of. Surprisingly after my last attempt i got a render with a model with 4c hair which i knew i was going in the right direction. I used two more websites that were similar to the last and not much had different results and was wondering if I would ever get good results. 
+
 
 [![4-comma][images-fig4]](https://example.com)
 
 *Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+
+
+After many trials of finding the right kind of hair for African American hairstyles, I finally found a good match in ChatGPT. I used the paid version from my friend and asked to type in black hairstyles for black women with 4c hair and results were successful. It also generated multiple choices in one search which was not common in other websites. I can see with my future work if I need to find hairstyles for my black characters. I could generate ideas on the paid version and have a very accurate result. 
+
 
 ## Conclusion
-Your Conclusion here: 50 words here
+
+
+After this project I definitely feel black people, especially black women in AI are very important to show. People don't seem to realize the importance of having inclusion in these different spaces. And I will continue to work hard and show my people in ways not seen often.
+
 
 <!-- Bibliography -->
 ## Bibliography
-[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
+[1] Baker, Ariel. "AI Still Doesn't Understand Black Hair, and That Points to a Larger Issue." POPSUGAR Australia, 12 June 2024, https://www.popsugar.com.au/beauty/ai-lack-understanding-black-hair-49362854.
 
-[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
-[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025.
+[2] Harris, Elizabeth A. "Black Artists Say A.I. Shows Bias, With Algorithms Erasing Their History." The New York Times, 4 July 2023, https://www.nytimes.com/2023/07/04/arts/design/black-artists-bias-ai.html.
 
-[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
+
+[3] SmartHair AI. AI Hairstyle Generator. SmartHair AI, https://smarthair.ai/#generator. Accessed 1 Mar. 2025.
+
+[4]. NightCafe Studio. AI Hairstyle Generator. NightCafe Studio, https://creator.nightcafe.studio/trend/ai-hairstyle-generator. Accessed 1 Mar. 2025.
+
 
 
 
