@@ -37,7 +37,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. This is my 4-comma, its show casing my main chacrters from my body of work Nia and Tyrell interacting with each other in a funny way of Nia alwyays wanting to have a differnt hairsytle for the day but tyrell only cares about his game.
+*Figure 1. This is my 4-comma, its show casing my main chacrters from my body of work Nia and Tyrell interacting with each other in a funny way. Nia, the older sister wants to have a differnt hairsytle for the day but tyrell only cares about his game.
 <!-- Abstract -->
 ## Abstract
 My Yonkuma is based on my body of work, Duskfire Chronicles. In doing so, I wanted to show how my characters interact with each other while also showing how versatile black hair can be. Using AI generative photos to suggest what style the sister should have. 
