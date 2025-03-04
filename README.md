@@ -73,7 +73,7 @@ For my process I began to look up different AI websites that would generate imag
 ## Result and Future Work
 
 
-After many trials of finding the right kind of hair for African American hairstyles, I finally found a good match in ChatGPT. I used the paid version from my friend and asked to type in black hairstyles for black women with 4c hair and results were successful. It also generated multiple choices in one search which was not common in other websites. I can see with my future work if I need to find hairstyles for my black characters. I could generate ideas on the paid version and have a very accurate result. 
+After many trials of finding the right kind of hair for African American women, I finally found a good match in ChatGPT. I used the paid version from my friend and asked to type in black hairstyles for black women with 4c hair and results were successful. It also generated multiple choices in one search which was not common in other websites. I can see with my future work if I need to find hairstyles for my black characters. I could generate ideas on the paid version and have a very accurate result. 
 
 
 ## Conclusion
