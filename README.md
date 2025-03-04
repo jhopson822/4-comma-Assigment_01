@@ -21,7 +21,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: DUSKFIRE CHRONICLES SHORTS: CROWN t</h3>
+  <h3 align="center">4-Comma: DUSKFIRE CHRONICLES SHORTS: CROWN </h3>
 
   <p align="center">
     Short two sentence project desctiption here!
