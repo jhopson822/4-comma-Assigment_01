@@ -29,7 +29,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
     <a href="https://github.com/jhopson822/4-comma-Assigment_01/blob/main/4_Comma__Duskfire_Chronicles_Shorts_CROWN-compressed.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="(https://jhopson1.myportfolio.com/)">Justin Hopson</a>
+    <a href="[https://jhopson1.myportfolio.com/]">Justin Hopson</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
